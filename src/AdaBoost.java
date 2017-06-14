@@ -397,7 +397,7 @@ public class AdaBoost {
 class main{
     public static void main(String[] args) {
         AdaBoost machine = new AdaBoost();
-        double[][] data = machine.readFile("HC_Body_Temperature");
+        double[][] data = machine.readFile("HC_Body_Temperature.txt");
 
         //Question 1
         System.out.println("\nBruteForce 1:");
