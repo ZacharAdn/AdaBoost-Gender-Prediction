@@ -1,0 +1,36 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+#*.class
+
+# Log file
+#*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#.gitignore
+.idea/
+machineLearningEx3.iml
+out/
+# IntelliJ
+/out/
+
+.idea_modules/
+atlassian-ide-plugin.xml
+.idea/replstate.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
