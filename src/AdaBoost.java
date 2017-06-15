@@ -413,8 +413,7 @@ class main{
         double[][] lines = machine.adaBoost(data);
         System.out.println("\nlines:");
         for (int i = 0; i < lines.length; i++) {
-            System.out.println("w = {" +lines[i][0] + ", " + lines[i][1] + "}, weight:" + lines[i][2] +
-                    ", lineTag: "+ lines[i][3]);
+            System.out.println("w = {" +lines[i][0] + ", " + lines[i][1] + "}, weight:" + lines[i][2]);
         }
     }
 }
